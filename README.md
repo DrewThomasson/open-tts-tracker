@@ -85,7 +85,7 @@ This is aimed as a resource to increase awareness for these models and to make i
 | VALL-E |  |  |  |  |  |  |  |  |  |
 | VITS/ MMS-TTS | CUDA | ❌ | ❌ | ❌ | ❌ | speed<br>🎚 |  |  |  |
 | WhisperSpeech | CUDA | ❌ | 👥 | 🎭👥 | ❌ | speed<br>🎚 |  |  |  |
-| XTTS | CPU/CUDA | ❌ | 👥 | 🎭👥 | ❌ | speed / stability<br>🎚 | 🌊 | ❌ |  |
+| XTTS | CUDA | ❌ | 👥 | 🎭👥 | ❌ | speed / stability<br>🎚 | 🌊 | ❌ |  |
 | xVASynth | CPU / CUDA | ARPAbet+ | ❌ | 4-type 🎭<br>😡😃😭😯<br>per‑phoneme | ❌ | speed / pitch / energy / 🎭<br>🎚<br>per‑phoneme | ❌ | 🦜 |  |
 | Zonos | CUDA | eSpeak | 👥 | 🎭 | ❌ | speed / pitch / quality / emotion<br>🎚 | ❌ | ❌ | |
 
